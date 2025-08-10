@@ -1,6 +1,3 @@
-
----
-
 # AthleticHub Server
 
 This is the backend server for **AthleticHub**, a platform to manage athletic events and bookings. It uses **Node.js**, **Express**, **Firebase Admin SDK** for authentication, and **MongoDB** for data storage.
@@ -120,7 +117,3 @@ Authorization: Bearer <firebase_id_token>
 * Make sure to keep your Firebase service account JSON file and `.env` file out of version control.
 * Add them to your `.gitignore` file.
 
----
-
-
-If you want, I can help you generate a more detailed README with examples of requests and responses! Would you like that?
